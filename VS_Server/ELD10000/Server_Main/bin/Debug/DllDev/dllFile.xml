@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dllstore>
+<dll>User_Manager.dll</dll>
+<dll>Departmente_Manager.dll</dll>
+<dll>Authority_Manager.dll</dll>
+<dll>Active_Manager.dll</dll>
+<dll>Lost_Manager.dll</dll>
+<dll>Login_Manager.dll</dll>
+<dll>UserPhoto_Manager.dll</dll>
+<dll>Tasksdone_Manager.dll</dll>
+<dll>tasksdesdone_Manager.dll</dll>
+<dll>Taskdes_Manager.dll</dll>
+<dll>Drivers_Manager.dll</dll>
+<dll>Cars_Manager.dll</dll>
+<dll>Tasks_Manager.dll</dll>
+<dll>Alarms_Manager.dll</dll>
+<dll>CarsPhoto_Manager.dll</dll>
+<dll>DriversPhoto_Manager.dll</dll>
+<dll>Data_Insert_Phone.dll</dll>
+<dll>userInfo_Inquire.dll</dll>
+</dllstore>

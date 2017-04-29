@@ -1,0 +1,15 @@
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\DriversPhoto_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\DriversPhoto_Manager.pdb
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\DriversPhoto_Manager\obj\Debug\ResolveAssemblyReference.cache
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\DriversPhoto_Manager\obj\Debug\DriversPhoto_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\DriversPhoto_Manager\obj\Debug\DriversPhoto_Manager.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\DriversPhoto_Manager.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\DriversPhoto_Manager.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\DriversPhoto_Manager\obj\Debug\DriversPhoto_Manager.csprojResolveAssemblyReference.cache
+I:\test\C#\ELD10000\VS_Server\ELD10000\DriversPhoto_Manager\obj\Debug\DriversPhoto_Manager.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\DriversPhoto_Manager\obj\Debug\DriversPhoto_Manager.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\DriversPhoto_Manager.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\DriversPhoto_Manager.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\DriversPhoto_Manager\obj\Debug\DriversPhoto_Manager.csprojResolveAssemblyReference.cache
+I:\test\C#\walkingstick\VS_Server\ELD10000\DriversPhoto_Manager\obj\Debug\DriversPhoto_Manager.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\DriversPhoto_Manager\obj\Debug\DriversPhoto_Manager.pdb

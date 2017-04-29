@@ -1,0 +1,15 @@
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\User_Insert\obj\Debug\ResolveAssemblyReference.cache
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\User_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\User_Manager.pdb
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\User_Insert\obj\Debug\User_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\User_Insert\obj\Debug\User_Manager.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\User_Manager.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\User_Manager.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\User_Insert\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+I:\test\C#\ELD10000\VS_Server\ELD10000\User_Insert\obj\Debug\User_Manager.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\User_Insert\obj\Debug\User_Manager.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\User_Manager.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\User_Manager.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\User_Insert\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+I:\test\C#\walkingstick\VS_Server\ELD10000\User_Insert\obj\Debug\User_Manager.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\User_Insert\obj\Debug\User_Manager.pdb

@@ -1,0 +1,15 @@
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Departmente_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Departmente_Manager.pdb
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Departmente_Manager\obj\Debug\ResolveAssemblyReference.cache
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Departmente_Manager\obj\Debug\Departmente_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Departmente_Manager\obj\Debug\Departmente_Manager.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Departmente_Manager.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Departmente_Manager.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\Departmente_Manager\obj\Debug\Departmente_Manager.csprojResolveAssemblyReference.cache
+I:\test\C#\ELD10000\VS_Server\ELD10000\Departmente_Manager\obj\Debug\Departmente_Manager.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\Departmente_Manager\obj\Debug\Departmente_Manager.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Departmente_Manager.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Departmente_Manager.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\Departmente_Manager\obj\Debug\Departmente_Manager.csprojResolveAssemblyReference.cache
+I:\test\C#\walkingstick\VS_Server\ELD10000\Departmente_Manager\obj\Debug\Departmente_Manager.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\Departmente_Manager\obj\Debug\Departmente_Manager.pdb

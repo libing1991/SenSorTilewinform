@@ -1,0 +1,10 @@
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Data_Insert_Phone.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Data_Insert_Phone.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\Data_Insert_Phone\obj\Debug\Data_Insert_Phone.csprojResolveAssemblyReference.cache
+I:\test\C#\ELD10000\VS_Server\ELD10000\Data_Insert_Phone\obj\Debug\Data_Insert_Phone.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\Data_Insert_Phone\obj\Debug\Data_Insert_Phone.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Data_Insert_Phone.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Data_Insert_Phone.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\Data_Insert_Phone\obj\Debug\Data_Insert_Phone.csprojResolveAssemblyReference.cache
+I:\test\C#\walkingstick\VS_Server\ELD10000\Data_Insert_Phone\obj\Debug\Data_Insert_Phone.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\Data_Insert_Phone\obj\Debug\Data_Insert_Phone.pdb

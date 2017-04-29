@@ -1,0 +1,13 @@
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\IInterface\bin\Debug\IInterface.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\IInterface\bin\Debug\IInterface.pdb
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\IInterface\obj\Debug\ResolveAssemblyReference.cache
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\IInterface\obj\Debug\IInterface.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\IInterface\obj\Debug\IInterface.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\IInterface\bin\Debug\IInterface.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\IInterface\bin\Debug\IInterface.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\IInterface\obj\Debug\IInterface.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\IInterface\obj\Debug\IInterface.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\IInterface\bin\Debug\IInterface.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\IInterface\bin\Debug\IInterface.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\IInterface\obj\Debug\IInterface.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\IInterface\obj\Debug\IInterface.pdb

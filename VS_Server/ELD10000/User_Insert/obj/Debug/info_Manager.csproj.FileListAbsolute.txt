@@ -1,0 +1,5 @@
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\info_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\info_Manager.pdb
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\User_Insert\obj\Debug\ResolveAssemblyReference.cache
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\User_Insert\obj\Debug\info_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\User_Insert\obj\Debug\info_Manager.pdb

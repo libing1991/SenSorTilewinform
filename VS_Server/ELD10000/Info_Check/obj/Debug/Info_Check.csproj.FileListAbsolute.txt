@@ -1,0 +1,8 @@
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Info_Check\bin\Debug\Info_Check.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Info_Check\bin\Debug\Info_Check.pdb
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Info_Check\obj\Debug\ResolveAssemblyReference.cache
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Info_Check\obj\Debug\Info_Check.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Info_Check\obj\Debug\Info_Check.pdb
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Info_Check\bin\Debug\Server_DAL.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Info_Check\bin\Debug\MySql.Data.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Info_Check\bin\Debug\Server_DAL.pdb

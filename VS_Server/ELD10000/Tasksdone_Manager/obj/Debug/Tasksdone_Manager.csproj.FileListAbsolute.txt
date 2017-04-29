@@ -1,0 +1,15 @@
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Tasksdone_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Tasksdone_Manager.pdb
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Tasksdone_Manager\obj\Debug\ResolveAssemblyReference.cache
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Tasksdone_Manager\obj\Debug\Tasksdone_Manager.dll
+E:\work\C#\work\ELD10000\VS_Server\ELD10000\Tasksdone_Manager\obj\Debug\Tasksdone_Manager.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Tasksdone_Manager.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Tasksdone_Manager.pdb
+I:\test\C#\ELD10000\VS_Server\ELD10000\Tasksdone_Manager\obj\Debug\Tasksdone_Manager.csprojResolveAssemblyReference.cache
+I:\test\C#\ELD10000\VS_Server\ELD10000\Tasksdone_Manager\obj\Debug\Tasksdone_Manager.dll
+I:\test\C#\ELD10000\VS_Server\ELD10000\Tasksdone_Manager\obj\Debug\Tasksdone_Manager.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Tasksdone_Manager.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\Tasksdone_Manager.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\Tasksdone_Manager\obj\Debug\Tasksdone_Manager.csprojResolveAssemblyReference.cache
+I:\test\C#\walkingstick\VS_Server\ELD10000\Tasksdone_Manager\obj\Debug\Tasksdone_Manager.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\Tasksdone_Manager\obj\Debug\Tasksdone_Manager.pdb

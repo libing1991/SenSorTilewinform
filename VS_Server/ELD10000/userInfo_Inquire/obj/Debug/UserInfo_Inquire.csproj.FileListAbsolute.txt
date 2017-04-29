@@ -1,0 +1,5 @@
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\userInfo_Inquire.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\Server_Main\bin\Debug\DllDev\userInfo_Inquire.pdb
+I:\test\C#\walkingstick\VS_Server\ELD10000\userInfo_Inquire\obj\Debug\userInfo_Inquire.csprojResolveAssemblyReference.cache
+I:\test\C#\walkingstick\VS_Server\ELD10000\userInfo_Inquire\obj\Debug\userInfo_Inquire.dll
+I:\test\C#\walkingstick\VS_Server\ELD10000\userInfo_Inquire\obj\Debug\userInfo_Inquire.pdb
